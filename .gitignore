@@ -1,0 +1,20 @@
+.gradle/
+**/build/
+local.properties
+
+# Native/CMake build
+.cxx/
+**/.cxx/
+
+# Android Studio
+.idea/
+*.iml
+
+# Signing keys
+*.jks
+*.keystore
+*.p12
+
+# Secrets
+.env
+.env.*
