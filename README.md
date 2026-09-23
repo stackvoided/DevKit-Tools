@@ -1,4 +1,4 @@
-# 🛠️ DevKit — Pocket Developer Utilities
+# 🛠️ DevKit — Pocket Android Developer Utilities
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Android-API_24+-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
@@ -32,7 +32,7 @@
 ## 📂 Project Structure
 
 ```text
-app/src/main/java/com/example/kotlingame/
+app/src/main/java/com/devkit/tools/
 ├── MainActivity.kt               # Entry point and tab scaffold
 ├── domain/
 │   └── DevTool.kt                # Utility enum mapping & navigation icons
