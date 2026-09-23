@@ -3,7 +3,6 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Android-API_24+-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material3-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![License](https://img.shields.io/badge/License-MIT-blue.style=flat-square)](LICENSE)
 
 **DevKit** is a lightweight, offline-first Android application designed for developers, reverse engineers, and UI designers. Built using modern Android architecture, Jetpack Compose, and Material 3 design principles, it delivers a high-density, compact toolbox directly to your mobile device.
 
